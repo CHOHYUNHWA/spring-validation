@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.itemservice.validation.MessageCodesResolverTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-26T14:09:10" hostname="johyeonhwaui-MacBookPro.local" time="0.093">
+  <properties/>
+  <testcase name="messageCodesResolverField()" classname="hello.itemservice.validation.MessageCodesResolverTest" time="0.093"/>
+  <system-out><![CDATA[messageCode = required.item.itemName
+messageCode = required.itemName
+messageCode = required.java.lang.String
+messageCode = required
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
